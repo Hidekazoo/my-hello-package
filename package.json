@@ -1,10 +1,10 @@
 {
-  "name": "my-hello-package",
+  "name": "@hidekazoo/my-hello-package",
   "version": "1.0.0",
   "description": "my hello package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Hidekazoo/my-hello-package/issues"
   },
-  "homepage": "https://github.com/Hidekazoo/my-hello-package#readme"
+  "homepage": "https://github.com/Hidekazoo/my-hello-package#readme",
+  "devDependencies": {
+    "vitest": "^0.16.0"
+  }
 }
