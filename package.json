@@ -1,0 +1,20 @@
+{
+  "name": "my-hello-package",
+  "version": "1.0.0",
+  "description": "my hello package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hidekazoo/my-hello-package.git"
+  },
+  "keywords": [],
+  "author": "hidekazoo <hidekazoo.crudzoo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hidekazoo/my-hello-package/issues"
+  },
+  "homepage": "https://github.com/Hidekazoo/my-hello-package#readme"
+}
