@@ -1,6 +1,6 @@
 {
   "name": "@hidekazoo/my-hello-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "my hello package",
   "main": "index.js",
   "type": "module",
