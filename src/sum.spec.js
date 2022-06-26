@@ -6,7 +6,7 @@ describe("sum", () => {
     assert.equal(sum(1, 2), 3);
   });
 
-  test("failed test 1+3", () => {
-    assert.equal(sum(1, 3), 3);
+  test("1+3 = 4", () => {
+    assert.equal(sum(1, 3), 4);
   });
 });
