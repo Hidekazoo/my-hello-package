@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "my hello package",
   "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "^14"
+  },
   "scripts": {
     "test": "vitest"
   },
